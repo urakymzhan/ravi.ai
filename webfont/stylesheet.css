@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Aristotelica Pro Disp Extlt';
+    src: url('AristotelicaProDisp-Extlt.eot');
+    src: url('AristotelicaProDisp-Extlt.eot?#iefix') format('embedded-opentype'),
+        url('AristotelicaProDisp-Extlt.woff2') format('woff2'),
+        url('AristotelicaProDisp-Extlt.woff') format('woff'),
+        url('AristotelicaProDisp-Extlt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Aristotelica Pro Tx Extlt';
+    src: url('AristotelicaProTx-Extlt.eot');
+    src: url('AristotelicaProTx-Extlt.eot?#iefix') format('embedded-opentype'),
+        url('AristotelicaProTx-Extlt.woff2') format('woff2'),
+        url('AristotelicaProTx-Extlt.woff') format('woff'),
+        url('AristotelicaProTx-Extlt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'AristotelicaPro CndTxt Exlt';
+    src: url('AristotelicaProCndTxt-Exlt.eot');
+    src: url('AristotelicaProCndTxt-Exlt.eot?#iefix') format('embedded-opentype'),
+        url('AristotelicaProCndTxt-Exlt.woff2') format('woff2'),
+        url('AristotelicaProCndTxt-Exlt.woff') format('woff'),
+        url('AristotelicaProCndTxt-Exlt.ttf') format('truetype');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+

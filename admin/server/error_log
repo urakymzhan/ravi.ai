@@ -1,0 +1,9 @@
+[18-Sep-2021 09:39:10 America/New_York] PHP Warning:  Undefined array key "username" in /home/ravakila/public_html/admin/server/auth.php on line 8
+[18-Sep-2021 09:39:10 America/New_York] PHP Warning:  Undefined array key "pass" in /home/ravakila/public_html/admin/server/auth.php on line 9
+[18-Sep-2021 09:39:10 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ravakila/public_html/admin/server/auth.php on line 15
+[05-Oct-2021 05:48:02 America/New_York] PHP Warning:  Undefined array key "username" in /home/ravakila/public_html/admin/server/auth.php on line 8
+[05-Oct-2021 05:48:02 America/New_York] PHP Warning:  Undefined array key "pass" in /home/ravakila/public_html/admin/server/auth.php on line 9
+[05-Oct-2021 05:48:02 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ravakila/public_html/admin/server/auth.php on line 15
+[10-Nov-2021 12:04:18 America/New_York] PHP Warning:  Undefined array key "username" in /home/ravakila/public_html/admin/server/auth.php on line 8
+[10-Nov-2021 12:04:18 America/New_York] PHP Warning:  Undefined array key "pass" in /home/ravakila/public_html/admin/server/auth.php on line 9
+[10-Nov-2021 12:04:18 America/New_York] PHP Warning:  session_destroy(): Trying to destroy uninitialized session in /home/ravakila/public_html/admin/server/auth.php on line 15

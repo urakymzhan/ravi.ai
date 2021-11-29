@@ -1,0 +1,167 @@
+/*Extra small devices (portrait phones, less than 320px)*/
+
+@media (max-width: 320px) {}
+
+
+/*Extra small devices (portrait phones, less than 360px)*/
+
+@media (max-width: 360px) {}
+
+
+/*Extra small devices (portrait phones, less than 375px)*/
+
+@media (max-width: 375px) {}
+
+
+/*Extra small devices (portrait phones, less than 414px)*/
+
+@media (max-width: 414px) {}
+
+
+/*Extra small devices (portrait phones, less than 576px)*/
+
+@media (max-width: 575.98px) {
+    .banner .banner_box h1 {
+        font-size: 30px;
+        margin-bottom: 30px;
+    }
+    .banner .banner_box form button {
+        height: calc(1.8em + .75rem + 5px);
+        padding: 10px 10px;
+        font-size: 14px;
+    }
+    .banner .banner_box form .form-control {
+        height: calc(1.8em + .75rem + 5px);
+       padding: 0.375rem 0.375rem 0.375rem 7.75rem;
+        font-size: 14px;
+    }
+    .banner .thank_you {
+        margin: auto;
+        margin-left: 15px;
+        margin-right: 15px;
+        padding: 20px;
+    }
+    .banner .thank_you .thank_top p {
+        font-size: 18px;
+    }
+    .banner .thank_you .thank_top h2 {
+        margin-bottom: 0;
+        font-size: 26px;
+    }
+    .banner .thank_you .box h3 {
+        font-size: 20px;
+    }
+    .banner .thank_you .box h4 {
+        font-size: 16px;
+    }
+    .banner .thank_you .thank_access h4 {
+        margin-bottom: 0;
+        font-size: 20px;
+    }
+    .banner .thank_you .thank_access p {
+        font-size: 18px;
+    }
+    .thank_share h4 {
+        font-size: 20px;
+    }
+    .banner .thank_you .thank_share a {
+        color: #000;
+        font-weight: 700;
+        font-size: 14px;
+    }
+    .eapps-social-share-buttons-icon-color-white .eapps-social-share-buttons-item .eapps-social-share-buttons-item-text,
+    .eapps-social-share-buttons-icon-color-on-hover-white .eapps-social-share-buttons-item:hover .eapps-social-share-buttons-item-text,
+    .eapps-social-share-buttons-icon-color-white .eapps-social-share-buttons-item .eapps-social-share-buttons-item-text *,
+    .eapps-social-share-buttons-icon-color-on-hover-white .eapps-social-share-buttons-item:hover .eapps-social-share-buttons-item-text * {
+        font-size: 12px !important;
+    }
+    .banner .thank_you .thank_share .elfsight-app-c4dfb028-e866-467e-bda2-f731a5474188 .eapps-social-share-buttons-item {
+        min-width: 81px !important;
+        width: 88px !important;
+    }
+    .method .method_box {
+        margin: 2.5px;
+        max-width: 84px;
+        display: inline-block;
+        position: relative;
+        padding: 0px 10px 10px 10px;
+        border: 1px solid #ddd;
+        text-align: left;
+        border-radius: 20px;
+    }
+    .checkmark {
+        height: 18px;
+        width: 18px;
+    }
+    .method_box label .checkmark:after {
+        left: 6px;
+        top: 2px;
+        width: 6px;
+        height: 11px;
+    }
+    .banner .thank_you .thank_access form label {
+        width: 100% !important;
+    }
+}
+
+
+/*// Small devices (landscape phones, 576px and up)*/
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    .banner .banner_box h1 {
+        font-size: 38px;
+        margin-bottom: 30px;
+    }
+    .banner .thank_you {
+        margin: auto;
+        margin-left: 15px;
+        margin-right: 15px;
+    }
+    .banner .thank_you .thank_access form label {
+        width: 100% !important;
+    }
+}
+
+
+/*// Medium devices (tablets, 768px and up)*/
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .banner .banner_box h1 {
+        font-size: 38px;
+    }
+    .banner .thank_you {
+        margin: auto;
+    }
+}
+
+
+/*// Large devices (desktops, 992px and up)*/
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .banner .banner_box h1 {
+        font-size: 50px;
+    }
+    .banner .thank_you {
+        margin: auto;
+    }
+}
+
+
+/*// Extra large devices (large desktops, 1200px and up)*/
+
+@media (min-width: 1200px) and (max-width: 1439.98px) {}
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+
+@media (min-width: 1440px) and (max-width: 1699.98px) {}
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+
+@media (min-width: 1700px) and (max-width: 2099.98px) {}
+
+
+/*// Extra large devices (large desktops, 1440px and up)*/
+
+@media (min-width: 2100px) {}

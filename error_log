@@ -1,0 +1,480 @@
+[18-Sep-2021 06:34:04 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.23. in /home/ravakila/public_html/vendor/composer/platform_check.php on line 24
+[18-Sep-2021 06:34:59 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.23. in /home/ravakila/public_html/vendor/composer/platform_check.php on line 24
+[18-Sep-2021 06:35:04 America/New_York] PHP Fatal error:  Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.0.0". You are running 7.4.23. in /home/ravakila/public_html/vendor/composer/platform_check.php on line 24
+[18-Sep-2021 08:31:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 11
+[18-Sep-2021 08:31:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 12
+[23-Sep-2021 05:11:28 America/New_York] PHP Warning:  Undefined variable $stripe in /home/ravakila/public_html/test.php on line 35
+[23-Sep-2021 05:11:28 America/New_York] PHP Warning:  Attempt to read property "paymentIntents" on null in /home/ravakila/public_html/test.php on line 35
+[23-Sep-2021 05:11:28 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function create() on null in /home/ravakila/public_html/test.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/test.php on line 35
+[23-Sep-2021 05:11:31 America/New_York] PHP Warning:  Undefined variable $stripe in /home/ravakila/public_html/test.php on line 35
+[23-Sep-2021 05:11:31 America/New_York] PHP Warning:  Attempt to read property "paymentIntents" on null in /home/ravakila/public_html/test.php on line 35
+[23-Sep-2021 05:11:31 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function create() on null in /home/ravakila/public_html/test.php:35
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/test.php on line 35
+[27-Sep-2021 20:54:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 11
+[27-Sep-2021 20:54:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 12
+[27-Sep-2021 20:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 12
+[27-Sep-2021 20:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 13
+[27-Sep-2021 20:54:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 14
+[28-Sep-2021 10:27:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 12
+[28-Sep-2021 10:27:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 13
+[28-Sep-2021 10:27:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 14
+[28-Sep-2021 10:45:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 12
+[28-Sep-2021 10:45:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 13
+[28-Sep-2021 10:45:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 14
+[28-Sep-2021 13:13:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 12
+[28-Sep-2021 13:13:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 13
+[28-Sep-2021 13:13:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 14
+[29-Sep-2021 03:37:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 12
+[29-Sep-2021 03:37:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 13
+[29-Sep-2021 03:37:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 14
+[30-Sep-2021 06:25:31 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 95
+[30-Sep-2021 06:25:31 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 101
+[30-Sep-2021 06:25:31 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 109
+[30-Sep-2021 06:25:31 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 115
+[30-Sep-2021 06:25:31 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 120
+[30-Sep-2021 09:33:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[30-Sep-2021 09:33:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[30-Sep-2021 09:33:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 02:39:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 02:39:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 02:39:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 03:47:00 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index3.php on line 31
+[05-Oct-2021 07:27:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 23
+[05-Oct-2021 07:27:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[05-Oct-2021 07:27:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 07:27:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 07:27:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 07:27:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 07:27:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 07:27:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 07:27:49 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 07:27:49 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 07:27:49 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 07:27:49 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 07:27:49 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 07:42:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:42:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:42:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:42:56 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:50:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:50:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:51:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:51:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:51:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:51:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:57:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:57:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:57:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 23
+[05-Oct-2021 07:57:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[05-Oct-2021 07:57:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:57:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 07:57:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 07:57:16 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 08:00:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 08:00:52 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 08:05:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[05-Oct-2021 08:05:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:38 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 08:09:42 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[05-Oct-2021 08:09:42 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[05-Oct-2021 08:09:42 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[05-Oct-2021 08:09:42 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[05-Oct-2021 08:09:42 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[05-Oct-2021 20:53:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 20:53:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 20:53:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 20:53:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 20:53:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 20:53:25 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 20:54:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 20:54:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 20:54:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[05-Oct-2021 20:55:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[05-Oct-2021 20:55:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[05-Oct-2021 20:55:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[06-Oct-2021 04:06:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[06-Oct-2021 04:06:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[06-Oct-2021 04:06:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[10-Oct-2021 11:44:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[10-Oct-2021 11:44:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[10-Oct-2021 11:44:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[10-Oct-2021 11:45:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[10-Oct-2021 11:45:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[10-Oct-2021 11:45:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[10-Oct-2021 11:45:51 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 124
+[10-Oct-2021 11:45:51 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 131
+[10-Oct-2021 11:45:51 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 139
+[10-Oct-2021 11:45:51 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[10-Oct-2021 11:45:51 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 150
+[11-Oct-2021 11:56:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 23
+[11-Oct-2021 11:56:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[11-Oct-2021 11:56:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[11-Oct-2021 11:56:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[11-Oct-2021 11:56:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[11-Oct-2021 11:57:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/server.php on line 111
+[11-Oct-2021 11:57:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 23
+[11-Oct-2021 11:57:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[11-Oct-2021 11:57:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/server.php on line 147
+[11-Oct-2021 11:57:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/server.php on line 148
+[11-Oct-2021 11:57:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 23
+[11-Oct-2021 11:57:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[12-Oct-2021 15:08:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 23
+[12-Oct-2021 15:08:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[12-Oct-2021 15:08:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[12-Oct-2021 15:08:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[12-Oct-2021 15:08:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[12-Oct-2021 15:17:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 23
+[12-Oct-2021 15:17:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[12-Oct-2021 15:17:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[12-Oct-2021 15:17:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[12-Oct-2021 15:17:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:11:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:11:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:11:17 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:20:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:20:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 08:20:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:20:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:20:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:26:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:26:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:26:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:29:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[13-Oct-2021 08:29:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[13-Oct-2021 08:29:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[13-Oct-2021 08:29:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[13-Oct-2021 08:30:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[13-Oct-2021 08:30:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[13-Oct-2021 08:31:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:31:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:31:09 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:31:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:31:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 08:31:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[13-Oct-2021 08:31:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[13-Oct-2021 08:34:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:34:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:34:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:38:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:38:31 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 08:42:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:42:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:42:08 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:42:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:42:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:42:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:42:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:42:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 08:43:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:43:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:43:15 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:49:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 08:49:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 08:49:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 08:49:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:49:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 08:49:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[13-Oct-2021 08:49:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[13-Oct-2021 08:50:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:50:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 08:51:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[13-Oct-2021 08:51:49 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[13-Oct-2021 08:52:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 08:52:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 09:12:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 09:12:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 09:12:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 09:12:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 09:12:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 09:12:41 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 09:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 09:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 09:19:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 09:19:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 09:19:50 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 09:20:32 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 09:20:32 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 09:21:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[13-Oct-2021 09:21:30 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[13-Oct-2021 11:27:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 11:27:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 11:27:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 11:27:33 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 32
+[13-Oct-2021 11:27:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[13-Oct-2021 11:27:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[13-Oct-2021 11:27:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[13-Oct-2021 11:27:42 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 32
+[14-Oct-2021 10:12:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[14-Oct-2021 10:12:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[14-Oct-2021 10:12:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[14-Oct-2021 10:12:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 32
+[16-Oct-2021 11:53:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[16-Oct-2021 11:53:40 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[17-Oct-2021 07:02:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[17-Oct-2021 07:02:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[17-Oct-2021 07:02:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[17-Oct-2021 07:02:11 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 32
+[18-Oct-2021 13:53:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[18-Oct-2021 13:53:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[18-Oct-2021 13:53:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[21-Oct-2021 10:25:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[21-Oct-2021 10:25:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 25
+[21-Oct-2021 10:25:24 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 26
+[21-Oct-2021 10:53:05 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 130
+[21-Oct-2021 10:53:05 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 137
+[21-Oct-2021 10:53:05 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[21-Oct-2021 10:53:05 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 151
+[21-Oct-2021 10:53:05 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 156
+[21-Oct-2021 10:53:15 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 130
+[21-Oct-2021 10:53:15 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 137
+[21-Oct-2021 10:53:15 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 145
+[21-Oct-2021 10:53:15 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 151
+[21-Oct-2021 10:53:15 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 156
+[21-Oct-2021 10:55:13 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 39
+[21-Oct-2021 10:56:51 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 39
+[21-Oct-2021 10:58:23 America/New_York] PHP Warning:  Undefined variable $last_user_email in /home/ravakila/public_html/index1.php on line 114
+[21-Oct-2021 10:58:23 America/New_York] PHP Warning:  Undefined variable $last_user_email in /home/ravakila/public_html/index1.php on line 114
+[21-Oct-2021 11:02:11 America/New_York] PHP Warning:  Undefined array key "init_email" in /home/ravakila/public_html/index1.php on line 112
+[21-Oct-2021 11:02:11 America/New_York] PHP Warning:  Undefined array key "init_email" in /home/ravakila/public_html/index1.php on line 112
+[21-Oct-2021 11:05:11 America/New_York] PHP Warning:  Undefined variable $last_user_email in /home/ravakila/public_html/index1.php on line 112
+[21-Oct-2021 11:05:11 America/New_York] PHP Warning:  Undefined variable $last_user_email in /home/ravakila/public_html/index1.php on line 112
+[21-Oct-2021 11:06:21 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 36
+[21-Oct-2021 11:06:29 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 36
+[21-Oct-2021 11:06:55 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 36
+[21-Oct-2021 11:07:04 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 36
+[21-Oct-2021 11:08:32 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index1.php on line 36
+[21-Oct-2021 11:10:06 America/New_York] PHP Warning:  Undefined array key "init_email" in /home/ravakila/public_html/index1.php on line 110
+[21-Oct-2021 11:10:06 America/New_York] PHP Warning:  Undefined array key "init_email" in /home/ravakila/public_html/index1.php on line 110
+[21-Oct-2021 11:26:06 America/New_York] PHP Warning:  Undefined array key "u_email" in /home/ravakila/public_html/index5.php on line 30
+[21-Oct-2021 11:46:59 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 29
+[21-Oct-2021 11:47:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 30
+[21-Oct-2021 11:47:04 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 31
+[21-Oct-2021 11:51:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 30
+[21-Oct-2021 11:51:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 31
+[21-Oct-2021 11:51:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 29
+[21-Oct-2021 11:51:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 30
+[21-Oct-2021 11:51:51 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 31
+[22-Oct-2021 07:26:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 07:26:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 07:26:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 07:28:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 07:28:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 07:28:05 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 07:28:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 07:28:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 07:28:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 07:28:55 America/New_York] PHP Warning:  Undefined variable $new_rank in /home/ravakila/public_html/server.php on line 123
+[22-Oct-2021 07:28:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 07:28:55 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 07:30:42 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/ravakila/public_html/index5.php on line 90
+[22-Oct-2021 07:30:45 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/ravakila/public_html/index5.php on line 90
+[22-Oct-2021 07:31:02 America/New_York] PHP Parse error:  syntax error, unexpected token ";", expecting ")" in /home/ravakila/public_html/index5.php on line 90
+[22-Oct-2021 07:31:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 07:31:19 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 07:31:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 07:31:28 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 07:33:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 07:33:14 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 07:33:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 07:33:53 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 07:35:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 07:35:27 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 07:36:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 07:36:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 07:36:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 07:36:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 07:36:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 29
+[22-Oct-2021 07:36:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 07:36:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 07:36:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 29
+[22-Oct-2021 07:36:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 07:36:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 07:36:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 07:36:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 30
+[22-Oct-2021 07:36:47 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 31
+[22-Oct-2021 07:37:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 07:37:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 07:37:21 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 07:38:02 America/New_York] PHP Warning:  Undefined variable $new_rank in /home/ravakila/public_html/server.php on line 123
+[22-Oct-2021 07:38:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 07:38:03 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 08:13:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:13:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:13:13 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 08:15:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:15:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:15:23 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 08:15:38 America/New_York] PHP Warning:  Undefined variable $new_rank in /home/ravakila/public_html/server.php on line 123
+[22-Oct-2021 08:15:38 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 08:15:38 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 08:17:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:17:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:17:07 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 08:27:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:27:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:27:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 08:41:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:41:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:41:43 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 08:43:37 America/New_York] PHP Warning:  Undefined variable $new_rank in /home/ravakila/public_html/server.php on line 123
+[22-Oct-2021 08:43:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 08:43:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 08:59:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 24
+[22-Oct-2021 08:59:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 25
+[22-Oct-2021 08:59:34 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index3.php on line 29
+[22-Oct-2021 08:59:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 08:59:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 08:59:36 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 29
+[22-Oct-2021 08:59:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:59:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:59:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 08:59:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 30
+[22-Oct-2021 08:59:37 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 31
+[22-Oct-2021 08:59:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 08:59:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 08:59:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 09:00:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 09:00:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 09:00:26 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 09:24:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 09:24:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 09:24:46 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 10:17:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 10:17:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 10:17:48 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 12:30:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 12:30:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 12:30:10 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 12:30:34 America/New_York] PHP Warning:  Undefined variable $new_rank in /home/ravakila/public_html/server.php on line 123
+[22-Oct-2021 12:30:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 24
+[22-Oct-2021 12:30:35 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index5.php on line 25
+[22-Oct-2021 12:30:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 22
+[22-Oct-2021 12:30:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 23
+[22-Oct-2021 12:30:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 24
+[22-Oct-2021 12:30:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 30
+[22-Oct-2021 12:30:45 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/index1.php on line 31
+[24-Oct-2021 07:38:57 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[24-Oct-2021 07:38:57 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[24-Oct-2021 07:38:57 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[24-Oct-2021 07:38:57 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[24-Oct-2021 07:38:57 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[24-Oct-2021 13:10:58 America/New_York] PHP Warning:  Undefined array key "rank" in /home/ravakila/public_html/server.php on line 192
+[24-Oct-2021 13:10:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/server.php on line 198
+[24-Oct-2021 13:10:58 America/New_York] PHP Warning:  Trying to access array offset on value of type null in /home/ravakila/public_html/server.php on line 199
+[24-Oct-2021 13:10:58 America/New_York] PHP Warning:  Undefined array key "payment_amount" in /home/ravakila/public_html/server.php on line 222
+[24-Oct-2021 15:43:20 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[24-Oct-2021 15:43:20 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[24-Oct-2021 15:43:20 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[24-Oct-2021 15:43:20 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[24-Oct-2021 15:43:20 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[24-Oct-2021 16:54:44 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[24-Oct-2021 16:54:44 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[24-Oct-2021 16:54:44 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[24-Oct-2021 16:54:44 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[24-Oct-2021 16:54:44 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[25-Oct-2021 08:14:14 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[25-Oct-2021 08:14:14 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[25-Oct-2021 08:14:14 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[25-Oct-2021 08:14:14 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[25-Oct-2021 08:14:14 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[25-Oct-2021 13:43:37 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[25-Oct-2021 13:43:37 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[25-Oct-2021 13:43:37 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[25-Oct-2021 13:43:37 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[25-Oct-2021 13:43:37 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[25-Oct-2021 19:36:07 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[25-Oct-2021 19:36:07 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[25-Oct-2021 19:36:07 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[25-Oct-2021 19:36:07 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[25-Oct-2021 19:36:07 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[25-Oct-2021 23:26:29 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[25-Oct-2021 23:26:29 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[25-Oct-2021 23:26:29 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[25-Oct-2021 23:26:29 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[25-Oct-2021 23:26:29 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[27-Oct-2021 03:12:36 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[27-Oct-2021 03:12:36 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[27-Oct-2021 03:12:36 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[27-Oct-2021 03:12:36 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[27-Oct-2021 03:12:36 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[10-Nov-2021 18:39:46 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[10-Nov-2021 18:39:46 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[10-Nov-2021 18:39:46 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[10-Nov-2021 18:39:46 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[10-Nov-2021 18:39:46 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[11-Nov-2021 17:54:34 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 128
+[11-Nov-2021 17:54:34 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 135
+[11-Nov-2021 17:54:34 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 143
+[11-Nov-2021 17:54:34 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 149
+[11-Nov-2021 17:54:34 America/New_York] PHP Warning:  Undefined variable $url in /home/ravakila/public_html/index1.php on line 154
+[12-Nov-2021 02:45:51 America/New_York] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing from persistent data. in /home/ravakila/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/ravakila/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/ravakila/public_html/server.php(49): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/ravakila/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244
+[12-Nov-2021 02:56:59 America/New_York] PHP Fatal error:  Uncaught Facebook\Exceptions\FacebookSDKException: Cross-site request forgery validation failed. Required param "state" missing from persistent data. in /home/ravakila/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php:244
+Stack trace:
+#0 /home/ravakila/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php(221): Facebook\Helpers\FacebookRedirectLoginHelper->validateCsrf()
+#1 /home/ravakila/public_html/server.php(49): Facebook\Helpers\FacebookRedirectLoginHelper->getAccessToken()
+#2 {main}
+  thrown in /home/ravakila/public_html/Facebook/Helpers/FacebookRedirectLoginHelper.php on line 244

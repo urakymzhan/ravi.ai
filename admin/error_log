@@ -1,0 +1,44 @@
+[19-Sep-2021 13:48:15 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[06-Nov-2021 17:17:08 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:05 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:07 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:10 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:14 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:15 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:20 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:21 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:24 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7
+[10-Nov-2021 12:04:24 America/New_York] PHP Fatal error:  Uncaught DivisionByZeroError: Division by zero in /home/ravakila/public_html/admin/index.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/ravakila/public_html/admin/index.php on line 7

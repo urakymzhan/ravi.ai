@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/ravakilla/public_html/
+    - /bin/cp * $DEPLOYPATH
